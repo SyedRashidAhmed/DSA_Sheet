@@ -1,2 +1,2 @@
-# DSA_Sheet
-Repository for DSA  
+# LeetCode_75_DSA_Sheet
+Repository for LeetCode 75 DSA solutions
