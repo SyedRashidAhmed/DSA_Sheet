@@ -1,2 +1,2 @@
 # LeetCode_75_DSA_Sheet
-Repository for LeetCode 75 DSA solutions
+Welcome to the LeetCode 75 Problems repository! This repository is designed to help you practice and master essential coding concepts through a curated set of problems from LeetCode. The problems cover fundamental topics such as arrays, strings, sliding windows, hashmaps, and more. Whether you are preparing for coding interviews or looking to improve your problem-solving skills, this repository is a great resource.
